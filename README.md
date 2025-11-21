@@ -9,7 +9,6 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=nanda-kumudhan&color=blue&style=flat-square)](https://github.com/nanda-kumudhan)
   
 </div>
----
 
 ## 🎓 About Me
 
