@@ -1,11 +1,14 @@
+
 <div align="center">
-  <h1>Welcome to My GitHub Profile! 👋</h1>
-  <p>
-    <strong>Computer Science & AI Student</strong> at Loughborough University<br>
-    Passionate about building scalable web applications and AI solutions
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nanda+Kumudhan;Computer+Science+Student;Aspiring+Software+Engineer;Problem+Solver+%26+Developer" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/nanda-kumudhan?style=social)](https://github.com/nanda-kumudhan)
+  [![Profile Views](https://komarev.com/ghpvc/?username=nanda-kumudhan&color=blue&style=flat-square)](https://github.com/nanda-kumudhan)
+  
+</div>
 ---
 
 ## 🎓 About Me
